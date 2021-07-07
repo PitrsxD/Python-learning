@@ -1,0 +1,5 @@
+numberOne = input("Please enter first number: \n")
+numberTwo = input("Please enter second number: \n")
+numberThree = input("Please enter thirt number: \n")
+total = int(numberOne) + int(numberTwo) + int(numberThree)
+print(f"{numberOne} + {numberTwo} + {numberThree} = {total}")
